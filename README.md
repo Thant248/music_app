@@ -10,3 +10,10 @@ To build the project, use Maven:
 
 ```bash
 mvn clean install
+
+### 1. Copy Enviroment
+
+```bash
+cp .env.example .env
+
+
