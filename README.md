@@ -36,7 +36,7 @@ docker compose up -d
 Open your web browser and navigate to `http://localhost:8080` to access the Music application.
 
 
-if they are any issues, please run the following command after creating the jar file
+if there is any issue, please run the following command after creating the jar file
 
 ```bash
 cd target
